@@ -1,3 +1,7 @@
+// Flappy Plane is written by Abthahi Ahmed Rifat in C++ with SDL2 library.
+// Facebook : https://facebook.com/IAmAbthahi
+// Website  : https://aarsoftx.com
+
 #include <iostream>
 #include <vector>
 #include <SDL2/SDL.h>
